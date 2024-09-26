@@ -3,7 +3,7 @@
 
 
 African Leadership University live session class project
-to practice HTML, Css and Javascript.
+to practice HTML, CSS and Javascript.
 
 
 
